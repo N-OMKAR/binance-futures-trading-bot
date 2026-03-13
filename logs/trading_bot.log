@@ -1,0 +1,16 @@
+2026-03-13 22:08:42,652 - INFO - Placing MARKET order BUY BTCUSDT qty=0.001
+2026-03-13 22:08:42,653 - ERROR - API Secret required for private endpoints
+2026-03-13 22:10:45,700 - INFO - Placing MARKET order BUY BTCUSDT qty=0.001
+2026-03-13 22:10:45,700 - ERROR - API Secret required for private endpoints
+2026-03-13 22:12:11,715 - INFO - Placing MARKET order BUY BTCUSDT qty=0.001
+2026-03-13 22:12:12,838 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-14 00:46:38,603 - INFO - Placing MARKET order BUY BTCUSDT qty=0.001
+2026-03-14 00:46:39,591 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-03-14 00:49:59,349 - INFO - Placing MARKET order BUY BTCUSDT qty=0.001
+2026-03-14 00:50:00,483 - ERROR - APIError(code=-1021): Timestamp for this request is outside of the recvWindow.
+2026-03-14 01:14:51,520 - INFO - Placing MARKET order BUY BTCUSDT qty=0.001
+2026-03-14 01:14:52,364 - ERROR - APIError(code=-1021): Timestamp for this request is outside of the recvWindow.
+2026-03-14 01:15:35,801 - INFO - Placing MARKET order BUY BTCUSDT qty=0.001
+2026-03-14 01:15:36,677 - ERROR - APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2026-03-14 01:16:59,024 - INFO - Placing MARKET order BUY BTCUSDT qty=0.002
+2026-03-14 01:16:59,635 - INFO - {'orderId': 12794364949, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ4bf3dc71f7f811276499cf', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1773431219525}
